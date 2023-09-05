@@ -1,0 +1,4 @@
+width = int 400
+height = int 400
+
+background = tuple (0,0,255) 
